@@ -9,7 +9,6 @@
 ## 🛠 Tech Stack (Learning)
 - **Language**: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 - **Framework**: ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-- **Database**: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 ## 📚 Currently Learning
 - **김영한의 스프링 로드맵** 따라가기 (MVC 1편 진행 중)
@@ -18,3 +17,6 @@
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=본인의아이디&show_icons=true&theme=radical)
+
+## Solved.ac
+! [Solved.ac] (https://solved.ac/profile/gyeunguk2062)
