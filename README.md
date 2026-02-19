@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🎓 **숭실대학교** 컴퓨터학부 재학 중 
 - 🌱 현재 **Java & Spring** 생태계를 깊이 있게 탐구하고 있습니다.
-- ✍️ 배운 것을 잊지 않기 위해 [개인 블로그](https://gyeunguk.github.io)에 꾸준히 기록합니다.
+- ✍️ 배운 것을 잊지 않기 위해 [개인 블로그]((https://velog.io/@ruddnr/posts))에 꾸준히 기록합니다.
 - ✈️ 2027-1 교환학생을 목표로 세상을 보는 넓은 시야를 기르는 중입니다.
 
 ## 🛠 Tech Stack (Learning)
