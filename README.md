@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 기록하며 성장하는 백엔드 개발자입니다!
+# 👋 안녕하세요, 배운 것을 기록하며 백엔드의 기본기를 탄탄히 다져가는 학습자, 김경욱입니다.!
 
 ## 🚀 About Me
 - 🎓 **숭실대학교** 컴퓨터학부 재학 중 
@@ -14,7 +14,7 @@
 ## 📚 Currently Learning
 - **김영한의 스프링 로드맵** 따라가기 (MVC 1편 진행 중)
 - 객체지향 설계 원칙(SOLID)과 디자인 패턴 공부
-- 인프라 및 DB 기초 다지기
+- - **Do it! 스프링 부트 3:** 실제 프로젝트 구조를 익히고 게시판 서비스 구현해보기
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=본인의아이디&show_icons=true&theme=radical)
