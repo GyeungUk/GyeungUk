@@ -19,4 +19,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=본인의아이디&show_icons=true&theme=radical)
 
 ## Solved.ac
-[![Solved.ac Profile](https://mazandi.herokuapp.com/api?handle=gyeunguk2062&theme=warm)](https://solved.ac/gyeunguk2062)
+ <br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyeunguk2062](https://solved.ac/gyeunguk2062/)
+  <br>
