@@ -4,6 +4,7 @@
 - 🎓 **숭실대학교** 컴퓨터학부 재학 중 
 - 🌱 현재 **Java & Spring** 생태계를 깊이 있게 탐구하고 있습니다.
 - ✍️ 배운 것을 잊지 않기 위해 [개인 블로그](https://velog.io/@ruddnr/posts)에 꾸준히 기록합니다.
+- **Solved.ac**
 - [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyeunguk2062)](https://solved.ac/gyeunguk2062/)
 
 ## 🛠 Tech Stack (Learning)
