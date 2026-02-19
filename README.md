@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 배운 것을 기록하며 백엔드의 기본기를 탄탄히 다져가는 학습자, 김경욱입니다.!
+# 👋 안녕하세요, 백엔드 개발 학습자입니다.!
 
 ## 🚀 About Me
 - 🎓 **숭실대학교** 컴퓨터학부 재학 중 
@@ -19,8 +19,4 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=본인의아이디&show_icons=true&theme=radical)
 
 ## Solved.ac
- <p align="left">
-  <a href="https://solved.ac/gyeunguk2062">
-    <img src="https://mazandi.herokuapp.com/api?handle=gyeunguk2062&theme=warm" alt="Solved.ac Profile" />
-  </a>
-</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyeunguk2062)](https://solved.ac/gyeunguk2062/)
