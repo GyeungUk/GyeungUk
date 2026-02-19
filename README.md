@@ -13,7 +13,7 @@
 
 ## 📚 Currently Learning
 - **김영한의 스프링 로드맵** 따라가기 (MVC 1편 진행 중)
-- **Do it! 스프링 부트 3:** 실제 프로젝트 구조를 익히고 게시판 서비스 구현해보기
+- **Do it! 스프링 부트 3:** [Repository](https://github.com/GyeungUk/Do_it_SpringBoot3)실제 프로젝트 구조를 익히고 게시판 서비스 구현해보기
 - 
 
 
