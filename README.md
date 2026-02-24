@@ -12,7 +12,7 @@
 </a>
 
 * **목표:** 2026년 상반기 내 골드 티어 달성!
-* **주요 언어:** Java ☕ [cite: 2025-12-12]
+* **주요 언어:** Java ☕ 
 
 ## 🛠 Tech Stack (Learning)
 - **Language**: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
