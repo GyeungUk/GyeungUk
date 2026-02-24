@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 - 🎓 **숭실대학교** 컴퓨터학부 재학 중  
-- 🌱 현재 **Java & Spring** 생태계를 깊이 있게 탐구하고 있습니다. 
-- ✍️ 배운 것을 잊지 않기 위해 [개인 블로그](https://velog.io/@ruddnr/posts)에 꾸준히 기록합니다. 
-- 🌏 **언어 역량 강화**: 더 넓은 세상의 기술 문화를 경험하기 위해 꾸준히 외국어를 학습하고 있습니다. 
+- 🌱 현재 **Java & Spring** 생태계를 공부 하고 있습니다. 
+- ✍️ 복습하기 위해 [VELOG](https://velog.io/@ruddnr/posts)에 꾸준히 기록하고 있습니다. 
+- 🌏 **언어 역량 강화**: 영어 수업을 대비하기 위해 꾸준히 영어를 학습하고 있습니다. 
 
 ### 🏆 Algorithm & Problem Solving
 <a href="https://solved.ac/gyeunguk2062">
