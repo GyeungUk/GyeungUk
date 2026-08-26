@@ -35,10 +35,22 @@
   
 ## 💻 Projects
  
-### 🫂 [보듬 (Bodeum)](https://bodeum.site/)
+### 🫂 [보듬 (Bodeum)](https://github.com/UMC-10th-Bodeum/Bodeum-Backend)
 > 장애아동과 보호자를 위한 복지·의료·교육 정보 통합 플랫폼 (UMC 10th 팀 프로젝트)
 - **담당**: AUTH 도메인 전체(초기 인증 설계, OAuth 콜백, Redis 기반 세션, 온보딩, 회원 프로필/탈퇴 생명주기) + 배포·인프라(배포 파이프라인 구축, 헬스체크, S3 설정 검증, 핫픽스 절차) + Flyway 마이그레이션 관리
 - **Tech**: Java, Spring Boot, Spring Security, OAuth 2.0, JWT, MySQL, Redis, AWS, Docker, GitHub Actions
+
+### 🧑‍🎓 Youfare
+> 청년 복지 정보 플랫폼
+- OAuth2/JWT 인증, 정부 공공 API 연동, 프로필 기반 컨텍스트 주입 AI 챗봇, 동시성 제어가 필요한 포인트·랭킹 시스템 구현
+- **Tech**: Spring Boot, React/Vite, PostgreSQL(Supabase)
+  
+### 🏛 LIFT (생활전환)
+> MyData 기반 생애전환 행정 안내 플랫폼
+- 실업급여·건강보험 임의계속·국민연금 예외 등을 판단하는 룰 엔진 설계, PRD 작성 및 코드 검증
+- **Tech**: Spring Boot, Next.js
+
+  
 ## 📚 Currently Learning
 - **김영한의 스프링 로드맵**: MVC 1편을 통해 HTTP 원리와 서버 구조 파악 중 
 - **AUTH & 배포: 보듬(Bodeum)**:프로젝트에서 다룬 인증 흐름(OAuth, 세션 관리)과 배포 파이프라인을 심화 복습 중
