@@ -35,7 +35,7 @@
   
 ## 💻 Projects
  
-### 🫂 [보듬 (Bodeum)](https://github.com/UMC-10th-Bodeum/Bodeum-Backend)
+### 🫂 [보듬 (Bodeum)](https://bodeum.site/)
 > 장애아동과 보호자를 위한 복지·의료·교육 정보 통합 플랫폼 (UMC 10th 팀 프로젝트)
 - **담당**: AUTH 도메인 전체(초기 인증 설계, OAuth 콜백, Redis 기반 세션, 온보딩, 회원 프로필/탈퇴 생명주기) + 배포·인프라(배포 파이프라인 구축, 헬스체크, S3 설정 검증, 핫픽스 절차) + Flyway 마이그레이션 관리
 - **Tech**: Java, Spring Boot, Spring Security, OAuth 2.0, JWT, MySQL, Redis, AWS, Docker, GitHub Actions
