@@ -45,10 +45,10 @@
 - OAuth2/JWT 인증, 정부 공공 API 연동, 프로필 기반 컨텍스트 주입 AI 챗봇, 동시성 제어가 필요한 포인트·랭킹 시스템 구현
 - **Tech**: Spring Boot, React/Vite, PostgreSQL(Supabase)
   
-### 🏛 LIFT (생활전환)
-> MyData 기반 생애전환 행정 안내 플랫폼
-- 실업급여·건강보험 임의계속·국민연금 예외 등을 판단하는 룰 엔진 설계, PRD 작성 및 코드 검증
-- **Tech**: Spring Boot, Next.js
+### 🏛 [LIFT (생활전환)](https://github.com/LIFE-SFHIFT/LIFT)
+> 퇴직·이직·실직 등 생애 전환기의 행정 절차·공공 혜택을 진단 설문 기반으로 안내하는 웹 서비스
+- 실업급여·건강보험 임의계속·국민연금 납부예외·퇴직금 세금 4종을 판단하는 룰 엔진 설계, JWT 인증 및 소셜 로그인 구조 구현, 토스페이먼츠 연동 기반 플랜별 결제·접근 제어(소유권→결제→플랜 3단 게이트), 정부24·지자체 RSS 공공데이터 연동, PRD 작성
+- **Tech**: Java 21, Spring Boot, Spring Security, JWT, Next.js, PostgreSQL
 
   
 ## 📚 Currently Learning
