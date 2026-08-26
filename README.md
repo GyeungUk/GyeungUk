@@ -32,4 +32,4 @@
 ## 📚 Currently Learning
 - **김영한의 스프링 로드맵**: MVC 1편을 통해 HTTP 원리와 서버 구조 파악 중 
 - [**Do it! 스프링 부트 3**](https://github.com/GyeungUk/Do_it_SpringBoot3): 실제 프로젝트 구조를 익히고 게시판 서비스 구현 
-- **Language Skill**: 기술 문서 독해 및 소통 역량을 위해 토익 800점을 목표로 학습 중 ☺️ 
+- **Language Skill**: 기술 문서 독해 및 소통 역량을 위해 토익 900점을 목표로 학습 중 ☺️ 
