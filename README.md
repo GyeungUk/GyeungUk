@@ -4,14 +4,25 @@
 - 🎓 **숭실대학교** 컴퓨터학부 재학 중  
 - 🌱 현재 **Java & Spring** 생태계를 공부 하고 있습니다. 
 - ✍️ 복습하기 위해 [VELOG](https://velog.io/@ruddnr/posts)에 꾸준히 기록하고 있습니다. 
-- 🌏 **언어 역량 강화**: 영어 수업을 대비하기 위해 꾸준히 영어를 학습하고 있습니다. 
+- 🌏 **언어 역량 강화**: 영어 수업을 대비하기 위해 꾸준히 영어를 학습하고 있습니다.
+
+
+## 🏆 Awards
+- 🥇 **숭실대학교 AX·핀테크 기반 글로벌 취업역량 강화 프로그램 대상** (숭실대 총장상, 2026.08)
+
+
+## 📜 Certifications
+- **ADSP** (2025.02)
+- **SQLD** (2025.06)
+- **OPIc IM2** (2025.01)
+- **TOEIC 790** (2026.06)
+
 
 ### 🏆 Algorithm & Problem Solving
 <a href="https://solved.ac/gyeunguk2062">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gyeunguk2062" width="380" />
 </a>
 
-* **목표:** 2026년 상반기 내 골드 티어 달성!
 * **주요 언어:** Java ☕ 
 
 ## 🛠 Tech Stack (Learning)
