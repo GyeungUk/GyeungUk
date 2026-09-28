@@ -50,6 +50,12 @@
 - 실업급여·건강보험 임의계속·국민연금 납부예외·퇴직금 세금 4종을 판단하는 룰 엔진 설계, JWT 인증 및 소셜 로그인 구조 구현, 토스페이먼츠 연동 기반 플랜별 결제·접근 제어(소유권→결제→플랜 3단 게이트), 정부24·지자체 RSS 공공데이터 연동, PRD 작성
 - **Tech**: Java 21, Spring Boot, Spring Security, JWT, Next.js, PostgreSQL
 
+### 🗂️ [Handover (국제처 업무 인수인계)](https://github.com/GyeungUk/handover)
+> 대학 국제처의 연간 업무와 인수인계 문서를 관리하는 업무 워크스페이스
+- 담당자별 업무·일정과 인수인계 문서의 작성→제출→파트장 검토→승인·아카이브 흐름 구현, 기존 문서(PDF·HWP/HWPX·DOCX·XLSX·이미지)에서 OCR·AI 기반 초안 생성 및 분류, 학사일정 변경에 따른 업무 일정 조정 제안
+- 직번·비밀번호 인증과 서버 세션 기반 접근 제어, Spring API·Flyway 마이그레이션 설계, Vercel 프론트엔드·Render 백엔드 배포
+- **Tech**: Java 21, Spring Boot, Next.js, React, PostgreSQL, Flyway, OpenAI API, OCR, Docker, Vercel, Render
+
   
 ## 📚 Currently Learning
 - **김영한의 스프링 로드맵**: MVC 1편을 통해 HTTP 원리와 서버 구조 파악 중 
